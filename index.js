@@ -60,38 +60,38 @@ function propmtUser() {
 
 function generateMarkdown(answers) {
     return `
-    # ${answers.title}
+# ${answers.title}
 
-    ## Description
+## Description
 
-    ${answers.description}
+${answers.description}
 
-    ## Table of Contents
-    * [Installation](##installation)
-    * [Usage](##usage)
-    * [License](##license)
-    * [Contributers](##contributers)
-    * [Tests](##tests)
+## Table of Contents
+* [Installation](##installation)
+* [Usage](##usage)
+* [License](##license)
+* [Contributers](##contributers)
+* [Tests](##tests)
 
-    ## Installation
+## Installation
 
-    ${answers.install}
+${answers.install}
 
-    ## Usage
+## Usage
 
-    ${answers.usage}
+${answers.usage}
 
-    ## License
+## License
 
-    ${answers.license}
+${answers.license}
 
-    ## Contributors
+## Contributors
 
-    ${answers.contributors}
+${answers.contributors}
 
-    ## Tests
+## Tests
     
-    ${answers.tests}`;
+${answers.tests}`;
 }
 
 propmtUser()
