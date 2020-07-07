@@ -24,10 +24,16 @@ Basically, you will need to run node index.js in your terminal under the index.j
 
 MIT
 
+## Badges
+
+https://img.shields.io/static/v1?label=<license>&message=<MIT>&color=<blue> 
+
 ## Contributors
 
-undefined
+n/a
 
 ## Tests
     
 n/a
+
+## Questions
