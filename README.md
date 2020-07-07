@@ -26,7 +26,7 @@ MIT
 
 ## Badges
 
-https://img.shields.io/static/v1?label=<license>&message=<MIT>&color=<blue> 
+https://img.shields.io/badge/license-MIT-green
 
 ## Contributors
 
@@ -37,3 +37,5 @@ n/a
 n/a
 
 ## Questions
+
+If you have any questions please reach out to me through my github: Derekdespo https://github.com/Derekdespo
