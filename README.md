@@ -1,6 +1,8 @@
 
 # My Readme Generator
 
+<img width="1440" alt="readme-gen" src="https://user-images.githubusercontent.com/65831812/86691504-df63fd00-bfd6-11ea-8f93-231834c565b5.png">
+
 ## Description
 
 Using node.js and inquirer npm, this application will prompt the user with questions that will allow for a markdown file to be successfully created.
