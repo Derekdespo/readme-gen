@@ -1,9 +1,9 @@
 
-# Derek's Readme Generator
+# My Readme Generator
 
 ## Description
 
-Created an application with node.js to generate a Readme for new projects
+Using node.js and inquirer npm, this application will prompt the user with questions that will allow for a markdown file to be successfully created.
 
 ## Table of Contents
 * [Installation](##installation)
@@ -14,15 +14,15 @@ Created an application with node.js to generate a Readme for new projects
 
 ## Installation
 
-Just make sure you have some npm modules like inquirer installed and your ready to go
+You will need to install the inquirer npm and use the code provided in the index.js file.
 
 ## Usage
 
-when you enter node index.js, the questions will appear in the terminal. just answer them!
+Basically, you will need to run node index.js in your terminal under the index.js file. You should answer the questions, then you will have a readme.
 
 ## License
 
-ISC
+MIT
 
 ## Contributors
 
